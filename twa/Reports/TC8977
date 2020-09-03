@@ -1,0 +1,12 @@
+# Team Stats
+
+User Story: I can find out about team ownership, membership and activity status. 
+
+This report tells me
+
+- Total teams by number of Members
+- Team visibility (Public/Private/Hidden) and archive status
+- How many Owners, Guests and Members are in each team
+- Number of Channels in a team
+
+Drill through from team name to see Files and Guests, Users and Attributes including Custom AD Attributes. 
